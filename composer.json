@@ -1,0 +1,24 @@
+{
+    "name": "jandrade/mschool",
+    "description": "Mschool in PHP by Josimar Andrade for Lexia Learning",
+    "type": "project",
+    "license": "Copyright (c) 2019. Josimar Andrade, No Rights Reserved",
+    "authors": [
+        {
+            "name": "Josimar Andrade",
+            "email": "josimarfandrade@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.5.0",
+        "netresearch/jsonmapper": "^1.6",
+        "monolog/monolog": "^1.24"
+    },
+    "autoload": {
+        "psr-4": {"Mschool\\": "src"}
+    },
+    "scripts": {
+        "test": "php tests/test.php"
+    }
+}

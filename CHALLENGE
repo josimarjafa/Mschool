@@ -1,0 +1,21 @@
+Programming Task
+
+ 
+
+Using a programming language of your choice, spend 1-2 hours writing an application to get and store Massachusetts school ranking data from https://www.schooldigger.com
+
+·      Store a school’s id and name, and any other data you think is useful
+
+·      Store rankings from the past 5 years
+
+If you don’t have time to implement and save to a database, minimally write the SQL code to do the insertions and include in your deliverable the DDL for the db design &/or schema diagrams.
+
+The expectation is not that the application will necessarily be complete, but that you are prepared to discuss your code, design decisions, and next steps.
+
+Deliverable (please send in advance of interview):
+
+·       Code files
+
+·       Instructions for running
+
+·       What would you add or do differently if you had more time?
